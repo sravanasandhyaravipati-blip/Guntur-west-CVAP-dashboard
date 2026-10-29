@@ -1,16 +1,16 @@
-# React + Vite
+# Guntur West CVAP Dashboard - P4 for Swarna Andhra @2047
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built for APSDPS Young Professional assignment.
 
-Currently, two official plugins are available:
+**Objective:** Support P4 - Zero Poverty, Bangaru Kutumbam vision of Hon'ble CM and Kutumbha Rao garu, Vice-Chairman, Swarna Andhra P4 Foundation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Features:**
+- Bar Chart: Schools, PHCs, Roads, Waste, Jobs tracking
+- Pie Chart: Development status
+- Leaflet Map: Constituency geo-visualization
 
-## React Compiler
+**Tech:** React, ChartJS, React-Leaflet
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Next:** Link 600+ CVAP indicators + P4 Mentor mapping for Bangaru Kutumbam.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Built by Sravana Sandhya Ravipati - JNTU Kakinada, GIS Trainee, 3+ years IT.
